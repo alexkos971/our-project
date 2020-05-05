@@ -29,7 +29,8 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     overflow: hidden;
-    background-image: url('../img/Background.png');
+    /* background-image: url('../img/Background.png'); */
+    background-color: #fff;
     font-family: 'Montserrat Medium', sans-serif;
 }
 
